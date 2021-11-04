@@ -1,4 +1,5 @@
-👋 Hi, I’m @vnith
+> # **_Knowing is not enough, we must apply. Willing is not enough, we must do._**
+> ### - Bruce Lee
 
 <!---
 vnith/vnith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
